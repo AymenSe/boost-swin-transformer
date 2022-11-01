@@ -1,0 +1,5 @@
+./__pycache__/*
+./.vscode/*
+./data/__pycache__/*
+./model/__pycache__/*
+TODO
